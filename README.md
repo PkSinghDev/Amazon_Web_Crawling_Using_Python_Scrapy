@@ -7,4 +7,4 @@ Artificial Intelligence is heavily dependent on Data as well as it's on quality.
 <br />
 ![image](https://user-images.githubusercontent.com/48447990/178975732-d9347d11-3965-41e9-9c59-62f89290b472.png)
 
-[Completed Solution Understanding](https://medium.com/@pushpendrasinghcod/amazon-website-crawling-using-python-scrapy-436cbf2ed9)
+[Complete Solution Understanding](https://medium.com/@pushpendrasinghcod/amazon-website-crawling-using-python-scrapy-436cbf2ed9)
